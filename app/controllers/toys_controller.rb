@@ -10,6 +10,7 @@ class ToysController < ApplicationController
   # GET /toys/1
   # GET /toys/1.json
   def show
+
   end
 
   # GET /toys/new
